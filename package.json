@@ -1,0 +1,24 @@
+{
+  "name": "newpo",
+  "version": "1.0.0",
+  "description": "new repo for class",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1125f16/newpo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1125f16/newpo/issues"
+  },
+  "homepage": "https://github.com/1125f16/newpo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
